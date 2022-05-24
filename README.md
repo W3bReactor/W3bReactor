@@ -1,16 +1,13 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=prodREAKTOR)
+<h1 align="center">Hi there, I'm Dmitriy
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm make up websites. My goal is to become a fronted developer 🇷🇺</h3>
+<p align='center'>I'm learning <b>html5</b>, <b>css3</b>, <b>javascript</b></p>
+<p align='center'>It is planned to study <b>REACT</b></p>
 
-<!--
-**prodREAKTOR/prodREAKTOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=prodREAKTOR)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodREAKTOR&layout=compact)](https://github.com/prodREAKTOR/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+go+do+projects)](https://git.io/typing-svg)
+
