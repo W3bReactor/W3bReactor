@@ -1,6 +1,6 @@
 {
-  "css/main.css": "css/main-7a7ea87775.css",
-  "css/vendor.css": "css/vendor-9912c5428e.css",
+  "css/main.css": "css/main-46709412ff.css",
+  "css/vendor.css": "css/vendor-94343792d0.css",
   "fonts/Montserrat-Bold.woff2": "fonts/Montserrat-Bold-eeadf3222b.woff2",
   "fonts/Montserrat-Light.woff2": "fonts/Montserrat-Light-75b94d12da.woff2",
   "fonts/Montserrat-Regular.woff2": "fonts/Montserrat-Regular-c7b975f3e8.woff2",
@@ -22,5 +22,5 @@
   "img/sites-3.avif": "img/sites-3-e21f90aae7.avif",
   "img/sites-3.png": "img/sites-3-aa095ff5d9.png",
   "img/sites-3.webp": "img/sites-3-b6a7259a38.webp",
-  "js/main.js": "js/main-437f7289fb.js"
+  "js/main.js": "js/main-7dd991d5ce.js"
 }
