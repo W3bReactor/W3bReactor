@@ -5,9 +5,9 @@
 <p align='center'>I'm learning <b>html5</b>, <b>css3</b>, <b>javascript</b></p>
 <p align='center'>It is planned to study <b>REACT</b></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prodREAKTOR)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=W3bReactor)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodREAKTOR&layout=compact)](https://github.com/prodREAKTOR/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W3bReactor&layout=compact)](https://github.com/W3bReactor/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+go+do+projects)](https://git.io/typing-svg)
 
